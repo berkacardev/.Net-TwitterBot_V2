@@ -1,0 +1,61 @@
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.AssemblyReference.cache
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.Properties.Resources.resources
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.GenerateResource.cache
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.CoreCompileInputs.cache
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\UserInterfaceWF.exe.config
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\UserInterfaceWF.exe
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\UserInterfaceWF.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Entity.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Entity.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Entity.dll.config
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.xml
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.CopyComplete
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.exe
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.TwitterBot.resources
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\DataAccessLayer.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\DataAccessLayer.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\WebDriver.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.UpdateAccount.resources
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.UpdateAccountToFollow.resources
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Ninject.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Ninject.xml
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\TentacleSoftware.Telnet.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.Tester.resources
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\UserInterfaceWF.exe.config
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\UserInterfaceWF.exe
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\UserInterfaceWF.pdb
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\BusinessLogicLayer.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Entity.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Ninject.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\TentacleSoftware.Telnet.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\DataAccessLayer.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\WebDriver.dll
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\BusinessLogicLayer.pdb
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Entity.pdb
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Entity.dll.config
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.xml
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\Ninject.xml
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\DataAccessLayer.pdb
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\bin\Debug\DataAccessLayer.dll.config
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.AssemblyReference.cache
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.SuggestedBindingRedirects.cache
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.Tester.resources
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.UpdateAccount.resources
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.Properties.Resources.resources
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.TwitterBot.resources
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.UpdateAccountToFollow.resources
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.GenerateResource.cache
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.CoreCompileInputs.cache
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.csproj.CopyComplete
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.exe
+D:\Net Projeler\TwitterBot\TwitterBot\UserInterfaceWF\obj\Debug\UserInterfaceWF.pdb

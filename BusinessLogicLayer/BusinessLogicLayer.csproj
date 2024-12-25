@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ACB4E672-48E8-4D65-B0D5-CBFADF992E25}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessLogicLayer</RootNamespace>
+    <AssemblyName>BusinessLogicLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v20.1, Version=20.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Ninject, Version=3.3.6.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.3.6\lib\net45\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TentacleSoftware.Telnet, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\TentacleSoftware.Telnet.1.0.3.0\lib\net45\TentacleSoftware.Telnet.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Selenium.WebDriver.4.2.0\lib\net47\WebDriver.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstract\IConfugrateService.cs" />
+    <Compile Include="Abstract\IFileService.cs" />
+    <Compile Include="Abstract\IFollowedAccountService.cs" />
+    <Compile Include="Abstract\IModemService.cs" />
+    <Compile Include="Abstract\IProcessHistoryService.cs" />
+    <Compile Include="Abstract\ISharedTweetService.cs" />
+    <Compile Include="Abstract\ITweetService.cs" />
+    <Compile Include="Abstract\ITweetSharedTimeService.cs" />
+    <Compile Include="Abstract\ITwitterAccountService.cs" />
+    <Compile Include="Abstract\ITwitterAccountToFollowService.cs" />
+    <Compile Include="Abstract\ITwitterProcessService.cs" />
+    <Compile Include="Abstract\ITwitterService.cs" />
+    <Compile Include="Concreate\ConfugrateManager.cs" />
+    <Compile Include="Concreate\FileManager.cs" />
+    <Compile Include="Concreate\FollowedAccountManager.cs" />
+    <Compile Include="Concreate\Helper.cs" />
+    <Compile Include="Concreate\KeeneticModemManager.cs" />
+    <Compile Include="Concreate\MobileAndroidModemManager.cs" />
+    <Compile Include="Concreate\ProcessHistoryManager.cs" />
+    <Compile Include="Concreate\Selenium\SeleniumTwitterManager.cs" />
+    <Compile Include="Concreate\SharedTweetManager.cs" />
+    <Compile Include="Concreate\TpLinkModemManager.cs" />
+    <Compile Include="Concreate\TweetManager.cs" />
+    <Compile Include="Concreate\TweetSharedTimeManager.cs" />
+    <Compile Include="Concreate\TwitterAccountManager.cs" />
+    <Compile Include="Concreate\TwitterAccountToFollowManager.cs" />
+    <Compile Include="Concreate\TwitterProcessManager.cs" />
+    <Compile Include="DependencyResolvers\Ninject\BusinessModule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Telnet\TelnetManager.cs" />
+    <Compile Include="Utilities\NinjectInstanceFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{df8b3190-cf38-4797-9d90-0276e23c81e4}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{118539e0-ead4-4022-8fdc-13e083b284ab}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

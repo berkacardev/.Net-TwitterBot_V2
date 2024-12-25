@@ -1,0 +1,24 @@
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\Entity.dll.config
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\Entity.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\Entity.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.pdb
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\Entity.dll.config
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\Entity.dll
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\Entity.pdb
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.dll
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.xml
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.csproj.CopyComplete
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.dll
+D:\Net Projeler\TwitterBot\TwitterBot\Entity\obj\Debug\Entity.pdb
